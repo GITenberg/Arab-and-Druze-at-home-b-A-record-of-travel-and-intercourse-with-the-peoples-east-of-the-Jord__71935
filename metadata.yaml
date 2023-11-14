@@ -1,5 +1,8 @@
 _repo: Arab-and-Druze-at-home-b-A-record-of-travel-and-intercourse-with-the-peoples-east-of-the-Jord__71935
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71935-h/images/cover.jpg
 creator:
   author:
     agent_name: Ewing, William Clinton
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '51487'
     url: http://www.gutenberg.org/2009/agents/51487
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71935#Arab-and-Druze-at-home-b-A-record-of-travel-and-intercourse-with-the-peoples-east-of-the-Jord_
 gutenberg_issued: '2023-10-23'
 identifiers:
   gutenberg: '71935'
